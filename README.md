@@ -4,7 +4,7 @@
 Este proyecto busca profundizar la integración entre Matemática (conjuntos y lógica) y Programación (estructuras condicionales, repetitivas y funciones), fortaleciendo el trabajo en equipo, la comunicación clara y la responsabilidad individual en proyectos colaborativos.
 
 ## 👨‍💻 Integrantes
-- **Federico** (DNI: 27110410)
+- **Federico Villalba Petrelli** (DNI: 27110410)
 - **Rodrigo Agüero** (DNI: 35989063)
 - **Profesor:** [Nombre del profesor]
 
